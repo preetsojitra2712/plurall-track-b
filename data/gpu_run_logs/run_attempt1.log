@@ -1,0 +1,17 @@
+=== [1/8] venv + deps ===
+cuda available: True | NVIDIA H100 80GB HBM3
+deps done at 91s
+=== [2/8] test suite (pre) ===
+tests exit 0
+=== [3/8] sanity gate: head-only control at TrainConfig.head_lr ===
+Traceback (most recent call last):
+  File "/home/ubuntu/plurall-kit/scripts/control_head_only.py", line 120, in <module>
+    main()
+  File "/home/ubuntu/plurall-kit/scripts/control_head_only.py", line 54, in main
+    Xtr, ytr = xy("train")
+  File "/home/ubuntu/plurall-kit/scripts/control_head_only.py", line 51, in xy
+    X = np.stack([feats[key_for(p)] for p in sub["path"]]).astype(np.float32)
+  File "/home/ubuntu/plurall-kit/scripts/control_head_only.py", line 51, in <listcomp>
+    X = np.stack([feats[key_for(p)] for p in sub["path"]]).astype(np.float32)
+KeyError: 'data\\raw_audio\\authentic\\1673\\1673-143396-0002.wav::L6'
+EXPERIMENT_FAILED at line 30

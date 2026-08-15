@@ -1,0 +1,21 @@
+=== [1/8] venv + deps ===
+cuda available: True | NVIDIA H100 80GB HBM3
+deps done at 6s
+=== [2/8] test suite (pre) ===
+tests exit 0
+=== [3/8] sanity gate: head-only control at TrainConfig.head_lr ===
+control: head-only, Adam lr=0.001 (TrainConfig.head_lr), 8 epochs, accum=8, seed=0
+  epoch 1/8  mean loss 0.6988  (chance=0.693)
+  epoch 2/8  mean loss 0.6889  (chance=0.693)
+  epoch 3/8  mean loss 0.6734  (chance=0.693)
+  epoch 4/8  mean loss 0.6625  (chance=0.693)
+  epoch 5/8  mean loss 0.6559  (chance=0.693)
+  epoch 6/8  mean loss 0.6515  (chance=0.693)
+  epoch 7/8  mean loss 0.6494  (chance=0.693)
+  epoch 8/8  mean loss 0.6487  (chance=0.693)
+val   auc=1.000  eer=0.000  tpr@fpr=0.1=1.000
+test  auc=0.852  eer=0.120  tpr@fpr=0.1=0.100
+
+(sklearn converged LR on identical features: val 1.000 / test 0.970)
+GATE FAIL: val 1.000 / test 0.852 still below ceiling (0.95/0.9). The optimizer recipe remains too weak to train even a head -- STOPPING; do not interpret any end-to-end LoRA result until this passes.
+EXPERIMENT_FAILED at line 30

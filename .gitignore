@@ -1,0 +1,40 @@
+# Virtualenv — 1.68 GB / 51k files, rebuilt by setup.ps1 / setup.sh
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model weight caches. HuggingFace/torch cache to the user home by default
+# (verified: nothing under this tree), but never let one in if that changes.
+.cache/
+huggingface/
+*.safetensors
+*.onnx
+*.onnx.json
+
+# Piper voice models — 241 MB of ONNX, re-downloadable on demand via
+# piper.download_voices.download_voice(). scripts/generate_tts_positives.py
+# fetches them automatically if absent.
+data/tts_voices/
+
+# Secrets — belt and braces; nothing of the sort is in this tree today.
+*.pem
+*.key
+id_rsa*
+.env
+.env.*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Scratch
+*.log.tmp

@@ -1,0 +1,321 @@
+=== [1/8] venv + deps ===
+cuda available: True | NVIDIA H100 80GB HBM3
+deps done at 5s
+=== [2/8] test suite (pre) ===
+tests exit 0
+=== [3/8] sanity gate: head-only control at TrainConfig.head_lr ===
+control: head-only, Adam lr=0.001 (TrainConfig.head_lr), 100 epochs, accum=8, seed=0
+  epoch 1/100  mean loss 0.7007  (chance=0.693)
+  epoch 2/100  mean loss 0.6997  (chance=0.693)
+  epoch 3/100  mean loss 0.6967  (chance=0.693)
+  epoch 4/100  mean loss 0.6922  (chance=0.693)
+  epoch 5/100  mean loss 0.6867  (chance=0.693)
+  epoch 6/100  mean loss 0.6801  (chance=0.693)
+  epoch 7/100  mean loss 0.6729  (chance=0.693)
+  epoch 8/100  mean loss 0.6644  (chance=0.693)
+  epoch 9/100  mean loss 0.6552  (chance=0.693)
+  epoch 10/100  mean loss 0.6461  (chance=0.693)
+  epoch 11/100  mean loss 0.6363  (chance=0.693)
+  epoch 12/100  mean loss 0.6269  (chance=0.693)
+  epoch 13/100  mean loss 0.6178  (chance=0.693)
+  epoch 14/100  mean loss 0.6090  (chance=0.693)
+  epoch 15/100  mean loss 0.6009  (chance=0.693)
+  epoch 16/100  mean loss 0.5923  (chance=0.693)
+  epoch 17/100  mean loss 0.5841  (chance=0.693)
+  epoch 18/100  mean loss 0.5767  (chance=0.693)
+  epoch 19/100  mean loss 0.5680  (chance=0.693)
+  epoch 20/100  mean loss 0.5611  (chance=0.693)
+  epoch 21/100  mean loss 0.5529  (chance=0.693)
+  epoch 22/100  mean loss 0.5458  (chance=0.693)
+  epoch 23/100  mean loss 0.5393  (chance=0.693)
+  epoch 24/100  mean loss 0.5313  (chance=0.693)
+  epoch 25/100  mean loss 0.5244  (chance=0.693)
+  epoch 26/100  mean loss 0.5179  (chance=0.693)
+  epoch 27/100  mean loss 0.5112  (chance=0.693)
+  epoch 28/100  mean loss 0.5057  (chance=0.693)
+  epoch 29/100  mean loss 0.4987  (chance=0.693)
+  epoch 30/100  mean loss 0.4930  (chance=0.693)
+  epoch 31/100  mean loss 0.4867  (chance=0.693)
+  epoch 32/100  mean loss 0.4808  (chance=0.693)
+  epoch 33/100  mean loss 0.4753  (chance=0.693)
+  epoch 34/100  mean loss 0.4699  (chance=0.693)
+  epoch 35/100  mean loss 0.4646  (chance=0.693)
+  epoch 36/100  mean loss 0.4595  (chance=0.693)
+  epoch 37/100  mean loss 0.4544  (chance=0.693)
+  epoch 38/100  mean loss 0.4497  (chance=0.693)
+  epoch 39/100  mean loss 0.4449  (chance=0.693)
+  epoch 40/100  mean loss 0.4402  (chance=0.693)
+  epoch 41/100  mean loss 0.4361  (chance=0.693)
+  epoch 42/100  mean loss 0.4317  (chance=0.693)
+  epoch 43/100  mean loss 0.4278  (chance=0.693)
+  epoch 44/100  mean loss 0.4235  (chance=0.693)
+  epoch 45/100  mean loss 0.4198  (chance=0.693)
+  epoch 46/100  mean loss 0.4159  (chance=0.693)
+  epoch 47/100  mean loss 0.4125  (chance=0.693)
+  epoch 48/100  mean loss 0.4089  (chance=0.693)
+  epoch 49/100  mean loss 0.4056  (chance=0.693)
+  epoch 50/100  mean loss 0.4023  (chance=0.693)
+  epoch 51/100  mean loss 0.3993  (chance=0.693)
+  epoch 52/100  mean loss 0.3962  (chance=0.693)
+  epoch 53/100  mean loss 0.3933  (chance=0.693)
+  epoch 54/100  mean loss 0.3906  (chance=0.693)
+  epoch 55/100  mean loss 0.3879  (chance=0.693)
+  epoch 56/100  mean loss 0.3856  (chance=0.693)
+  epoch 57/100  mean loss 0.3830  (chance=0.693)
+  epoch 58/100  mean loss 0.3806  (chance=0.693)
+  epoch 59/100  mean loss 0.3784  (chance=0.693)
+  epoch 60/100  mean loss 0.3763  (chance=0.693)
+  epoch 61/100  mean loss 0.3742  (chance=0.693)
+  epoch 62/100  mean loss 0.3723  (chance=0.693)
+  epoch 63/100  mean loss 0.3705  (chance=0.693)
+  epoch 64/100  mean loss 0.3687  (chance=0.693)
+  epoch 65/100  mean loss 0.3670  (chance=0.693)
+  epoch 66/100  mean loss 0.3654  (chance=0.693)
+  epoch 67/100  mean loss 0.3639  (chance=0.693)
+  epoch 68/100  mean loss 0.3625  (chance=0.693)
+  epoch 69/100  mean loss 0.3612  (chance=0.693)
+  epoch 70/100  mean loss 0.3599  (chance=0.693)
+  epoch 71/100  mean loss 0.3587  (chance=0.693)
+  epoch 72/100  mean loss 0.3576  (chance=0.693)
+  epoch 73/100  mean loss 0.3566  (chance=0.693)
+  epoch 74/100  mean loss 0.3556  (chance=0.693)
+  epoch 75/100  mean loss 0.3546  (chance=0.693)
+  epoch 76/100  mean loss 0.3538  (chance=0.693)
+  epoch 77/100  mean loss 0.3530  (chance=0.693)
+  epoch 78/100  mean loss 0.3523  (chance=0.693)
+  epoch 79/100  mean loss 0.3516  (chance=0.693)
+  epoch 80/100  mean loss 0.3511  (chance=0.693)
+  epoch 81/100  mean loss 0.3505  (chance=0.693)
+  epoch 82/100  mean loss 0.3500  (chance=0.693)
+  epoch 83/100  mean loss 0.3495  (chance=0.693)
+  epoch 84/100  mean loss 0.3491  (chance=0.693)
+  epoch 85/100  mean loss 0.3488  (chance=0.693)
+  epoch 86/100  mean loss 0.3484  (chance=0.693)
+  epoch 87/100  mean loss 0.3482  (chance=0.693)
+  epoch 88/100  mean loss 0.3479  (chance=0.693)
+  epoch 89/100  mean loss 0.3477  (chance=0.693)
+  epoch 90/100  mean loss 0.3475  (chance=0.693)
+  epoch 91/100  mean loss 0.3474  (chance=0.693)
+  epoch 92/100  mean loss 0.3473  (chance=0.693)
+  epoch 93/100  mean loss 0.3472  (chance=0.693)
+  epoch 94/100  mean loss 0.3471  (chance=0.693)
+  epoch 95/100  mean loss 0.3470  (chance=0.693)
+  epoch 96/100  mean loss 0.3470  (chance=0.693)
+  epoch 97/100  mean loss 0.3470  (chance=0.693)
+  epoch 98/100  mean loss 0.3469  (chance=0.693)
+  epoch 99/100  mean loss 0.3469  (chance=0.693)
+  epoch 100/100  mean loss 0.3469  (chance=0.693)
+val   auc=1.000  eer=0.000  tpr@fpr=0.1=1.000
+test  auc=0.914  eer=0.120  tpr@fpr=0.1=0.380
+
+(sklearn converged LR on identical features: val 1.000 / test 0.970)
+GATE PASS: control reaches the ceiling (val 1.000 >= 0.95, test 0.914 >= 0.9). The optimizer recipe is strong enough to train a head; the LoRA run is now interpretable.
+=== [4/8] corrected LoRA end-to-end (train_lora_probe_v2) ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+device: NVIDIA H100 80GB HBM3
+train  n= 67  neg= 30  pos= 37  pos from ['kokoro']
+val    n= 23  neg= 10  pos= 13  pos from ['kokoro']
+test   n= 60  neg= 10  pos= 50  pos from ['piper']
+
+caching audio in RAM ...
+Loading weights:   0%|          | 0/210 [00:00<?, ?it/s]Loading weights: 100%|██████████| 210/210 [00:00<00:00, 11171.33it/s]
+[transformers] [1mWav2Vec2Model LOAD REPORT[0m from: facebook/wav2vec2-base-960h
+Key               | Status     | 
+------------------+------------+-
+lm_head.bias      | UNEXPECTED | 
+lm_head.weight    | UNEXPECTED | 
+masked_spec_embed | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+
+trainable 147,456 / 94,519,168  (0.1560%)
+  encoder.layers.0.attention.v_proj.A                               6,144
+  encoder.layers.0.attention.v_proj.B                               6,144
+  encoder.layers.0.attention.q_proj.A                               6,144
+  encoder.layers.0.attention.q_proj.B                               6,144
+  encoder.layers.1.attention.v_proj.A                               6,144
+  encoder.layers.1.attention.v_proj.B                               6,144
+  encoder.layers.1.attention.q_proj.A                               6,144
+  encoder.layers.1.attention.q_proj.B                               6,144
+  encoder.layers.2.attention.v_proj.A                               6,144
+  encoder.layers.2.attention.v_proj.B                               6,144
+  encoder.layers.2.attention.q_proj.A                               6,144
+  encoder.layers.2.attention.q_proj.B                               6,144
+  ... 12 more tensors
+with head: trainable 148,225 / 94,519,937 (0.1568%)
+
+optimizer: Adam, two groups -- LoRA lr=0.0001 (TrainConfig.lr), head lr=0.001 (TrainConfig.head_lr)
+training: 100 epochs x 67 clips, accum=8 -> 900 optimiser steps
+
+  epoch 1/100  mean train loss 0.6938  (chance=0.693; 2s elapsed)
+  epoch 2/100  mean train loss 0.6929  (chance=0.693; 2s elapsed)
+  epoch 3/100  mean train loss 0.6902  (chance=0.693; 3s elapsed)
+  epoch 4/100  mean train loss 0.6861  (chance=0.693; 4s elapsed)
+  epoch 5/100  mean train loss 0.6810  (chance=0.693; 5s elapsed)
+  epoch 6/100  mean train loss 0.6745  (chance=0.693; 5s elapsed)
+  epoch 7/100  mean train loss 0.6668  (chance=0.693; 6s elapsed)
+  epoch 8/100  mean train loss 0.6568  (chance=0.693; 7s elapsed)
+  epoch 9/100  mean train loss 0.6428  (chance=0.693; 7s elapsed)
+  epoch 10/100  mean train loss 0.6222  (chance=0.693; 8s elapsed)
+  epoch 11/100  mean train loss 0.5851  (chance=0.693; 9s elapsed)
+  epoch 12/100  mean train loss 0.5170  (chance=0.693; 9s elapsed)
+  epoch 13/100  mean train loss 0.4195  (chance=0.693; 10s elapsed)
+  epoch 14/100  mean train loss 0.3323  (chance=0.693; 11s elapsed)
+  epoch 15/100  mean train loss 0.2665  (chance=0.693; 12s elapsed)
+  epoch 16/100  mean train loss 0.2137  (chance=0.693; 12s elapsed)
+  epoch 17/100  mean train loss 0.1700  (chance=0.693; 13s elapsed)
+  epoch 18/100  mean train loss 0.1373  (chance=0.693; 14s elapsed)
+  epoch 19/100  mean train loss 0.1051  (chance=0.693; 14s elapsed)
+  epoch 20/100  mean train loss 0.0780  (chance=0.693; 15s elapsed)
+  epoch 21/100  mean train loss 0.0582  (chance=0.693; 16s elapsed)
+  epoch 22/100  mean train loss 0.0405  (chance=0.693; 17s elapsed)
+  epoch 23/100  mean train loss 0.0291  (chance=0.693; 17s elapsed)
+  epoch 24/100  mean train loss 0.0189  (chance=0.693; 18s elapsed)
+  epoch 25/100  mean train loss 0.0130  (chance=0.693; 19s elapsed)
+  epoch 26/100  mean train loss 0.0091  (chance=0.693; 19s elapsed)
+  epoch 27/100  mean train loss 0.0066  (chance=0.693; 20s elapsed)
+  epoch 28/100  mean train loss 0.0051  (chance=0.693; 21s elapsed)
+  epoch 29/100  mean train loss 0.0039  (chance=0.693; 21s elapsed)
+  epoch 30/100  mean train loss 0.0032  (chance=0.693; 22s elapsed)
+  epoch 31/100  mean train loss 0.0026  (chance=0.693; 23s elapsed)
+  epoch 32/100  mean train loss 0.0023  (chance=0.693; 24s elapsed)
+  epoch 33/100  mean train loss 0.0020  (chance=0.693; 24s elapsed)
+  epoch 34/100  mean train loss 0.0017  (chance=0.693; 25s elapsed)
+  epoch 35/100  mean train loss 0.0015  (chance=0.693; 26s elapsed)
+  epoch 36/100  mean train loss 0.0014  (chance=0.693; 26s elapsed)
+  epoch 37/100  mean train loss 0.0013  (chance=0.693; 27s elapsed)
+  epoch 38/100  mean train loss 0.0012  (chance=0.693; 28s elapsed)
+  epoch 39/100  mean train loss 0.0011  (chance=0.693; 29s elapsed)
+  epoch 40/100  mean train loss 0.0010  (chance=0.693; 29s elapsed)
+  epoch 41/100  mean train loss 0.0009  (chance=0.693; 30s elapsed)
+  epoch 42/100  mean train loss 0.0009  (chance=0.693; 31s elapsed)
+  epoch 43/100  mean train loss 0.0008  (chance=0.693; 31s elapsed)
+  epoch 44/100  mean train loss 0.0008  (chance=0.693; 32s elapsed)
+  epoch 45/100  mean train loss 0.0007  (chance=0.693; 33s elapsed)
+  epoch 46/100  mean train loss 0.0007  (chance=0.693; 33s elapsed)
+  epoch 47/100  mean train loss 0.0007  (chance=0.693; 34s elapsed)
+  epoch 48/100  mean train loss 0.0006  (chance=0.693; 35s elapsed)
+  epoch 49/100  mean train loss 0.0006  (chance=0.693; 36s elapsed)
+  epoch 50/100  mean train loss 0.0006  (chance=0.693; 36s elapsed)
+  epoch 51/100  mean train loss 0.0006  (chance=0.693; 37s elapsed)
+  epoch 52/100  mean train loss 0.0005  (chance=0.693; 38s elapsed)
+  epoch 53/100  mean train loss 0.0005  (chance=0.693; 38s elapsed)
+  epoch 54/100  mean train loss 0.0005  (chance=0.693; 39s elapsed)
+  epoch 55/100  mean train loss 0.0005  (chance=0.693; 40s elapsed)
+  epoch 56/100  mean train loss 0.0005  (chance=0.693; 41s elapsed)
+  epoch 57/100  mean train loss 0.0005  (chance=0.693; 41s elapsed)
+  epoch 58/100  mean train loss 0.0004  (chance=0.693; 42s elapsed)
+  epoch 59/100  mean train loss 0.0004  (chance=0.693; 43s elapsed)
+  epoch 60/100  mean train loss 0.0004  (chance=0.693; 43s elapsed)
+  epoch 61/100  mean train loss 0.0004  (chance=0.693; 44s elapsed)
+  epoch 62/100  mean train loss 0.0004  (chance=0.693; 45s elapsed)
+  epoch 63/100  mean train loss 0.0004  (chance=0.693; 46s elapsed)
+  epoch 64/100  mean train loss 0.0004  (chance=0.693; 46s elapsed)
+  epoch 65/100  mean train loss 0.0004  (chance=0.693; 47s elapsed)
+  epoch 66/100  mean train loss 0.0004  (chance=0.693; 48s elapsed)
+  epoch 67/100  mean train loss 0.0004  (chance=0.693; 48s elapsed)
+  epoch 68/100  mean train loss 0.0004  (chance=0.693; 49s elapsed)
+  epoch 69/100  mean train loss 0.0004  (chance=0.693; 50s elapsed)
+  epoch 70/100  mean train loss 0.0004  (chance=0.693; 50s elapsed)
+  epoch 71/100  mean train loss 0.0003  (chance=0.693; 51s elapsed)
+  epoch 72/100  mean train loss 0.0003  (chance=0.693; 52s elapsed)
+  epoch 73/100  mean train loss 0.0003  (chance=0.693; 53s elapsed)
+  epoch 74/100  mean train loss 0.0003  (chance=0.693; 53s elapsed)
+  epoch 75/100  mean train loss 0.0003  (chance=0.693; 54s elapsed)
+  epoch 76/100  mean train loss 0.0003  (chance=0.693; 55s elapsed)
+  epoch 77/100  mean train loss 0.0003  (chance=0.693; 55s elapsed)
+  epoch 78/100  mean train loss 0.0003  (chance=0.693; 56s elapsed)
+  epoch 79/100  mean train loss 0.0003  (chance=0.693; 57s elapsed)
+  epoch 80/100  mean train loss 0.0003  (chance=0.693; 58s elapsed)
+  epoch 81/100  mean train loss 0.0003  (chance=0.693; 58s elapsed)
+  epoch 82/100  mean train loss 0.0003  (chance=0.693; 59s elapsed)
+  epoch 83/100  mean train loss 0.0003  (chance=0.693; 60s elapsed)
+  epoch 84/100  mean train loss 0.0003  (chance=0.693; 60s elapsed)
+  epoch 85/100  mean train loss 0.0003  (chance=0.693; 61s elapsed)
+  epoch 86/100  mean train loss 0.0003  (chance=0.693; 62s elapsed)
+  epoch 87/100  mean train loss 0.0003  (chance=0.693; 63s elapsed)
+  epoch 88/100  mean train loss 0.0003  (chance=0.693; 63s elapsed)
+  epoch 89/100  mean train loss 0.0003  (chance=0.693; 64s elapsed)
+  epoch 90/100  mean train loss 0.0003  (chance=0.693; 65s elapsed)
+  epoch 91/100  mean train loss 0.0003  (chance=0.693; 65s elapsed)
+  epoch 92/100  mean train loss 0.0003  (chance=0.693; 66s elapsed)
+  epoch 93/100  mean train loss 0.0003  (chance=0.693; 67s elapsed)
+  epoch 94/100  mean train loss 0.0003  (chance=0.693; 67s elapsed)
+  epoch 95/100  mean train loss 0.0003  (chance=0.693; 68s elapsed)
+  epoch 96/100  mean train loss 0.0003  (chance=0.693; 69s elapsed)
+  epoch 97/100  mean train loss 0.0003  (chance=0.693; 70s elapsed)
+  epoch 98/100  mean train loss 0.0003  (chance=0.693; 70s elapsed)
+  epoch 99/100  mean train loss 0.0003  (chance=0.693; 71s elapsed)
+  epoch 100/100  mean train loss 0.0003  (chance=0.693; 72s elapsed)
+
+training wall time: 71.8s
+val   auc=1.000  eer=0.000  tpr@fpr=0.1=1.000
+test  auc=0.892  eer=0.210  tpr@fpr=0.1=0.680
+
+adapter+head state -> data/lora_v2_state.pt
+
+                            val_auc  test_auc  test_eer  tpr@0.1
+frozen probe (sklearn)        1.000     0.970     0.100    0.820
+LoRA v2 (two-group Adam)      1.000     0.892     0.210    0.680
+=== [5/8] sklearn on LoRA-adapted features + FINAL TABLE ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+loaded data/lora_v2_state.pt  (meta: {'model': 'facebook/wav2vec2-base-960h', 'tap': 6, 'r': 8, 'alpha': 16, 'epochs': 100, 'seed': 0, 'lr': 0.0001, 'head_lr': 0.001})
+Loading weights:   0%|          | 0/210 [00:00<?, ?it/s]Loading weights: 100%|██████████| 210/210 [00:00<00:00, 10425.56it/s]
+[transformers] [1mWav2Vec2Model LOAD REPORT[0m from: facebook/wav2vec2-base-960h
+Key               | Status     | 
+------------------+------------+-
+lm_head.weight    | UNEXPECTED | 
+lm_head.bias      | UNEXPECTED | 
+masked_spec_embed | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+restored 24 LoRA tensors; backbone frozen on cuda
+  extracted 50/150
+  extracted 100/150
+  extracted 150/150
+val   auc=1.000  eer=0.000  tpr@fpr=0.1=1.000
+test  auc=0.868  eer=0.280  tpr@fpr=0.1=0.700
+
+==============================================================================
+FINAL TABLE -- layer-6 tap, cross-synthesizer test = piper (never trained on)
+==============================================================================
+                                    val_auc  test_auc  test_eer  tpr@0.1
+frozen probe (sklearn, no LoRA)       1.000     0.970     0.100    0.820
+control: head-only Adam (gate)        1.000     0.914     0.120    0.380
+LoRA v2 end-to-end Adam               1.000     0.892     0.210    0.680
+sklearn on LoRA-adapted feats         1.000     0.868     0.280    0.700
+
+Row 4 vs row 1 is the real question -- identical converged readout,
+only the representation differs. delta test AUC: -0.102
+ANSWER: adaptation DEGRADED the representation for cross-synthesizer
+transfer -- in-domain fitting bought at the held-out generator's cost.
+=== [6/8] test suite (post) ===
+tests exit 0
+=== [7/8] metrics json ===
+{
+  "control_head_only": {
+    "val_auc": 1.0,
+    "test_auc": 0.914,
+    "test_eer": 0.12000000000000001,
+    "test_tpr01": 0.38
+  },
+  "lora_v2_end_to_end": {
+    "val_auc": 1.0,
+    "test_auc": 0.892,
+    "test_eer": 0.21000000000000002,
+    "test_tpr01": 0.68,
+    "train_wall_s": 71.8
+  },
+  "sklearn_on_adapted": {
+    "val_auc": 1.0,
+    "test_auc": 0.868,
+    "test_eer": 0.28,
+    "test_tpr01": 0.7
+  }
+}=== [8/8] done ===
+TOTAL_WALL_SECONDS=103
+EXPERIMENT_DONE

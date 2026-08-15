@@ -1,0 +1,902 @@
+{
+  "kokoro/kokoro_af_heart/1673-143396-0002.wav": {
+    "band_frac_7to8k_after": 0.00021082,
+    "band_frac_7to8k_before": 0.00290436,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/1673-143396-0010.wav": {
+    "band_frac_7to8k_after": 0.00019708,
+    "band_frac_7to8k_before": 0.00273891,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/1988-147956-0005.wav": {
+    "band_frac_7to8k_after": 0.00034661,
+    "band_frac_7to8k_before": 0.00460908,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/2035-147960-0002.wav": {
+    "band_frac_7to8k_after": 0.00021088,
+    "band_frac_7to8k_before": 0.00285106,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/2086-149214-0001.wav": {
+    "band_frac_7to8k_after": 0.00025371,
+    "band_frac_7to8k_before": 0.00355238,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/2277-149896-0000.wav": {
+    "band_frac_7to8k_after": 0.00020688,
+    "band_frac_7to8k_before": 0.00288109,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/2277-149896-0005.wav": {
+    "band_frac_7to8k_after": 0.00020206,
+    "band_frac_7to8k_before": 0.00281332,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/5536-43358-0003.wav": {
+    "band_frac_7to8k_after": 0.00025491,
+    "band_frac_7to8k_before": 0.00355084,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/777-126732-0002.wav": {
+    "band_frac_7to8k_after": 0.00031833,
+    "band_frac_7to8k_before": 0.00448455,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/7976-110124-0001.wav": {
+    "band_frac_7to8k_after": 0.00021159,
+    "band_frac_7to8k_before": 0.00289988,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/8297-275156-0000.wav": {
+    "band_frac_7to8k_after": 0.00028955,
+    "band_frac_7to8k_before": 0.00405465,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/8297-275156-0004.wav": {
+    "band_frac_7to8k_after": 0.00022676,
+    "band_frac_7to8k_before": 0.00312847,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_heart/84-121123-0004.wav": {
+    "band_frac_7to8k_after": 0.00023833,
+    "band_frac_7to8k_before": 0.00320733,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/1673-143396-0003.wav": {
+    "band_frac_7to8k_after": 0.00043803,
+    "band_frac_7to8k_before": 0.00589773,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/1988-147956-0002.wav": {
+    "band_frac_7to8k_after": 0.00058784,
+    "band_frac_7to8k_before": 0.00791125,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/1988-147956-0006.wav": {
+    "band_frac_7to8k_after": 0.00044177,
+    "band_frac_7to8k_before": 0.00598934,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/2035-147960-0003.wav": {
+    "band_frac_7to8k_after": 0.00035997,
+    "band_frac_7to8k_before": 0.00485169,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/2086-149214-0003.wav": {
+    "band_frac_7to8k_after": 0.00040771,
+    "band_frac_7to8k_before": 0.00543099,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/2277-149896-0001.wav": {
+    "band_frac_7to8k_after": 0.00034647,
+    "band_frac_7to8k_before": 0.0044987,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/5536-43358-0000.wav": {
+    "band_frac_7to8k_after": 0.00048961,
+    "band_frac_7to8k_before": 0.00661895,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/5536-43358-0004.wav": {
+    "band_frac_7to8k_after": 0.00049528,
+    "band_frac_7to8k_before": 0.00671527,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/777-126732-0003.wav": {
+    "band_frac_7to8k_after": 0.00040646,
+    "band_frac_7to8k_before": 0.00560085,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/7976-110124-0002.wav": {
+    "band_frac_7to8k_after": 0.00041015,
+    "band_frac_7to8k_before": 0.00551465,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/8297-275156-0001.wav": {
+    "band_frac_7to8k_after": 0.00038558,
+    "band_frac_7to8k_before": 0.0051768,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/84-121123-0000.wav": {
+    "band_frac_7to8k_after": 0.00022464,
+    "band_frac_7to8k_before": 0.00303167,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_af_sarah/84-121123-0006.wav": {
+    "band_frac_7to8k_after": 0.00036114,
+    "band_frac_7to8k_before": 0.00499786,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/1673-143396-0005.wav": {
+    "band_frac_7to8k_after": 0.00021002,
+    "band_frac_7to8k_before": 0.00283091,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/1988-147956-0003.wav": {
+    "band_frac_7to8k_after": 0.00023741,
+    "band_frac_7to8k_before": 0.0033284,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/2035-147960-0000.wav": {
+    "band_frac_7to8k_after": 0.00020022,
+    "band_frac_7to8k_before": 0.00268392,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/2035-147960-0004.wav": {
+    "band_frac_7to8k_after": 0.00021142,
+    "band_frac_7to8k_before": 0.00294365,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/2086-149220-0004.wav": {
+    "band_frac_7to8k_after": 0.00023702,
+    "band_frac_7to8k_before": 0.00318959,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/2277-149896-0002.wav": {
+    "band_frac_7to8k_after": 0.00015156,
+    "band_frac_7to8k_before": 0.0020665,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/5536-43358-0001.wav": {
+    "band_frac_7to8k_after": 0.00016465,
+    "band_frac_7to8k_before": 0.00222576,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/777-126732-0000.wav": {
+    "band_frac_7to8k_after": 0.00016347,
+    "band_frac_7to8k_before": 0.00220569,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/777-126732-0004.wav": {
+    "band_frac_7to8k_after": 0.00013134,
+    "band_frac_7to8k_before": 0.00180973,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/7976-110124-0003.wav": {
+    "band_frac_7to8k_after": 0.00016477,
+    "band_frac_7to8k_before": 0.00223808,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/8297-275156-0002.wav": {
+    "band_frac_7to8k_after": 0.00014288,
+    "band_frac_7to8k_before": 0.00193344,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_adam/84-121123-0001.wav": {
+    "band_frac_7to8k_after": 0.00022337,
+    "band_frac_7to8k_before": 0.00299316,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/1673-143396-0007.wav": {
+    "band_frac_7to8k_after": 0.00010817,
+    "band_frac_7to8k_before": 0.00151688,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/1988-147956-0004.wav": {
+    "band_frac_7to8k_after": 0.00021411,
+    "band_frac_7to8k_before": 0.00304915,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/2035-147960-0001.wav": {
+    "band_frac_7to8k_after": 0.00016065,
+    "band_frac_7to8k_before": 0.00225305,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/2086-149214-0000.wav": {
+    "band_frac_7to8k_after": 0.00024031,
+    "band_frac_7to8k_before": 0.00346276,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/2086-149220-0005.wav": {
+    "band_frac_7to8k_after": 0.00027538,
+    "band_frac_7to8k_before": 0.0039389,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/2277-149896-0003.wav": {
+    "band_frac_7to8k_after": 0.00010702,
+    "band_frac_7to8k_before": 0.00152662,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/5536-43358-0002.wav": {
+    "band_frac_7to8k_after": 0.00025681,
+    "band_frac_7to8k_before": 0.00368472,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/777-126732-0001.wav": {
+    "band_frac_7to8k_after": 0.00011226,
+    "band_frac_7to8k_before": 0.00159902,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/7976-110124-0000.wav": {
+    "band_frac_7to8k_after": 5.418e-05,
+    "band_frac_7to8k_before": 0.00075955,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/7976-110124-0004.wav": {
+    "band_frac_7to8k_after": 4.46e-05,
+    "band_frac_7to8k_before": 0.00059822,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/8297-275156-0003.wav": {
+    "band_frac_7to8k_after": 0.00031537,
+    "band_frac_7to8k_before": 0.00448594,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "kokoro/kokoro_am_puck/84-121123-0003.wav": {
+    "band_frac_7to8k_after": 0.00016147,
+    "band_frac_7to8k_before": 0.00229189,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/1673-143396-0003.wav": {
+    "band_frac_7to8k_after": 0.00026756,
+    "band_frac_7to8k_before": 0.00361006,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/1988-147956-0002.wav": {
+    "band_frac_7to8k_after": 7.878e-05,
+    "band_frac_7to8k_before": 0.00114761,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/1988-147956-0006.wav": {
+    "band_frac_7to8k_after": 0.00037745,
+    "band_frac_7to8k_before": 0.00503032,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/2035-147960-0003.wav": {
+    "band_frac_7to8k_after": 8.267e-05,
+    "band_frac_7to8k_before": 0.0011301,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/2086-149214-0003.wav": {
+    "band_frac_7to8k_after": 0.00034956,
+    "band_frac_7to8k_before": 0.00476641,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/2277-149896-0001.wav": {
+    "band_frac_7to8k_after": 0.00010406,
+    "band_frac_7to8k_before": 0.00137087,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/5536-43358-0000.wav": {
+    "band_frac_7to8k_after": 0.00054046,
+    "band_frac_7to8k_before": 0.00746713,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/5536-43358-0004.wav": {
+    "band_frac_7to8k_after": 0.00035448,
+    "band_frac_7to8k_before": 0.00480537,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/777-126732-0003.wav": {
+    "band_frac_7to8k_after": 0.00047101,
+    "band_frac_7to8k_before": 0.00639086,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/7976-110124-0002.wav": {
+    "band_frac_7to8k_after": 4.549e-05,
+    "band_frac_7to8k_before": 0.00061897,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/8297-275156-0001.wav": {
+    "band_frac_7to8k_after": 0.00027388,
+    "band_frac_7to8k_before": 0.00365856,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/84-121123-0000.wav": {
+    "band_frac_7to8k_after": 4.36e-05,
+    "band_frac_7to8k_before": 0.0005924,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-amy-medium/84-121123-0006.wav": {
+    "band_frac_7to8k_after": 0.00043272,
+    "band_frac_7to8k_before": 0.00584741,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/1673-143396-0007.wav": {
+    "band_frac_7to8k_after": 5.22e-06,
+    "band_frac_7to8k_before": 6.504e-05,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/1988-147956-0004.wav": {
+    "band_frac_7to8k_after": 4.108e-05,
+    "band_frac_7to8k_before": 0.000506,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/2035-147960-0001.wav": {
+    "band_frac_7to8k_after": 2.904e-05,
+    "band_frac_7to8k_before": 0.00033971,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/2086-149214-0000.wav": {
+    "band_frac_7to8k_after": 1.544e-05,
+    "band_frac_7to8k_before": 0.00019434,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/2086-149220-0005.wav": {
+    "band_frac_7to8k_after": 3.615e-05,
+    "band_frac_7to8k_before": 0.0004518,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/2277-149896-0003.wav": {
+    "band_frac_7to8k_after": 1.468e-05,
+    "band_frac_7to8k_before": 0.00018159,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/5536-43358-0002.wav": {
+    "band_frac_7to8k_after": 5.518e-05,
+    "band_frac_7to8k_before": 0.00068846,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/777-126732-0001.wav": {
+    "band_frac_7to8k_after": 1.391e-05,
+    "band_frac_7to8k_before": 0.00016934,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/7976-110124-0000.wav": {
+    "band_frac_7to8k_after": 7.3e-07,
+    "band_frac_7to8k_before": 8.94e-06,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/7976-110124-0004.wav": {
+    "band_frac_7to8k_after": 1.49e-06,
+    "band_frac_7to8k_before": 1.746e-05,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/8297-275156-0003.wav": {
+    "band_frac_7to8k_after": 3.113e-05,
+    "band_frac_7to8k_before": 0.00038425,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-joe-medium/84-121123-0003.wav": {
+    "band_frac_7to8k_after": 3.933e-05,
+    "band_frac_7to8k_before": 0.00048688,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/1673-143396-0002.wav": {
+    "band_frac_7to8k_after": 6.418e-05,
+    "band_frac_7to8k_before": 0.00079985,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/1673-143396-0010.wav": {
+    "band_frac_7to8k_after": 7.523e-05,
+    "band_frac_7to8k_before": 0.00094131,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/1988-147956-0005.wav": {
+    "band_frac_7to8k_after": 9.84e-06,
+    "band_frac_7to8k_before": 0.00012422,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/2035-147960-0002.wav": {
+    "band_frac_7to8k_after": 3.196e-05,
+    "band_frac_7to8k_before": 0.00040338,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/2086-149214-0001.wav": {
+    "band_frac_7to8k_after": 0.0001195,
+    "band_frac_7to8k_before": 0.00147141,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/2277-149896-0000.wav": {
+    "band_frac_7to8k_after": 5.316e-05,
+    "band_frac_7to8k_before": 0.00065864,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/2277-149896-0005.wav": {
+    "band_frac_7to8k_after": 7.458e-05,
+    "band_frac_7to8k_before": 0.00091611,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/5536-43358-0003.wav": {
+    "band_frac_7to8k_after": 7.853e-05,
+    "band_frac_7to8k_before": 0.00098303,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/777-126732-0002.wav": {
+    "band_frac_7to8k_after": 1.753e-05,
+    "band_frac_7to8k_before": 0.00022252,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/7976-110124-0001.wav": {
+    "band_frac_7to8k_after": 6.637e-05,
+    "band_frac_7to8k_before": 0.00082511,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/8297-275156-0000.wav": {
+    "band_frac_7to8k_after": 2.761e-05,
+    "band_frac_7to8k_before": 0.00034355,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/8297-275156-0004.wav": {
+    "band_frac_7to8k_after": 6.725e-05,
+    "band_frac_7to8k_before": 0.00086899,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-lessac-medium/84-121123-0004.wav": {
+    "band_frac_7to8k_after": 1.928e-05,
+    "band_frac_7to8k_before": 0.00025136,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/1673-143396-0005.wav": {
+    "band_frac_7to8k_after": 0.00027504,
+    "band_frac_7to8k_before": 0.00363784,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/1988-147956-0003.wav": {
+    "band_frac_7to8k_after": 1.379e-05,
+    "band_frac_7to8k_before": 0.00018958,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/2035-147960-0000.wav": {
+    "band_frac_7to8k_after": 0.00010039,
+    "band_frac_7to8k_before": 0.00132588,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/2035-147960-0004.wav": {
+    "band_frac_7to8k_after": 5.218e-05,
+    "band_frac_7to8k_before": 0.00067818,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/2086-149220-0004.wav": {
+    "band_frac_7to8k_after": 5.676e-05,
+    "band_frac_7to8k_before": 0.00077747,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/2277-149896-0002.wav": {
+    "band_frac_7to8k_after": 0.00010586,
+    "band_frac_7to8k_before": 0.00145053,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/5536-43358-0001.wav": {
+    "band_frac_7to8k_after": 0.00016917,
+    "band_frac_7to8k_before": 0.0022589,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/777-126732-0000.wav": {
+    "band_frac_7to8k_after": 8.642e-05,
+    "band_frac_7to8k_before": 0.00118273,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/777-126732-0004.wav": {
+    "band_frac_7to8k_after": 0.00012557,
+    "band_frac_7to8k_before": 0.00167729,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/7976-110124-0003.wav": {
+    "band_frac_7to8k_after": 0.00015847,
+    "band_frac_7to8k_before": 0.00208359,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/8297-275156-0002.wav": {
+    "band_frac_7to8k_after": 0.000146,
+    "band_frac_7to8k_before": 0.00199142,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  },
+  "piper/piper_en_US-ryan-medium/84-121123-0001.wav": {
+    "band_frac_7to8k_after": 6.923e-05,
+    "band_frac_7to8k_before": 0.00091453,
+    "design": "RBJ audio-EQ-cookbook biquad",
+    "f0_hz": 6500.0,
+    "gain_db": -12.0,
+    "op": "high_shelf_cut",
+    "shelf_s": 1.0
+  }
+}

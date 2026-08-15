@@ -1,0 +1,21 @@
+{
+  "control_head_only": {
+    "val_auc": 1.0,
+    "test_auc": 0.914,
+    "test_eer": 0.12000000000000001,
+    "test_tpr01": 0.38
+  },
+  "lora_v2_end_to_end": {
+    "val_auc": 1.0,
+    "test_auc": 0.892,
+    "test_eer": 0.21000000000000002,
+    "test_tpr01": 0.68,
+    "train_wall_s": 71.8
+  },
+  "sklearn_on_adapted": {
+    "val_auc": 1.0,
+    "test_auc": 0.868,
+    "test_eer": 0.28,
+    "test_tpr01": 0.7
+  }
+}
